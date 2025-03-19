@@ -1,0 +1,414 @@
+{
+  "project_info": {
+    "project_number": "156206724245",
+    "project_id": "interns25-saffronedge-samarth",
+    "storage_bucket": "interns25-saffronedge-samarth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:bdbad779fc71b9382fd79c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:ecf13ea5b7f4e8a22fd79c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:a7a821eb1c51a1522fd79c",
+        "android_client_info": {
+          "package_name": "com.example.community_farming_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:2a58edb65047bfaa2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.crop_care_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:58f8c9c6eeafb43d2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.crop_reminder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:c9d7616349be88ca2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.farm_equipment_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:d9018b869dbc03bd2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.farm_equipment_rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:e6f342d67cc2908f2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.favorite_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:b556d07ec2e53cca2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.favourite_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:a193910a0c0a40bd2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.project_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-fvj4i983v236tka0rnti3b999hol4c15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_one",
+            "certificate_hash": "e7320fd313b762b49a5920850c8ca53db8c90b78"
+          }
+        },
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156206724245:android:89b0d12fe120cd8b2fd79c",
+        "android_client_info": {
+          "package_name": "com.example.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuABRbSkQRe_4RMb6hg32E3h8k8Os6AVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156206724245-i9tgjnvgve7o1hegj9tj2bt51rr7csbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156206724245-bpoj4t2sb5dgbnm4meujngjsgjldj5pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.favoritePlaces"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
