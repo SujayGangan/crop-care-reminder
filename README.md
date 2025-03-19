@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # crop_care_reminder
 
 A new Flutter project.
